@@ -1,0 +1,13 @@
+c:\users\aydin\documents\visual studio 2015\Projects\LicanceKey\LicanceKey\bin\Debug\LicanceKey.exe.config
+c:\users\aydin\documents\visual studio 2015\Projects\LicanceKey\LicanceKey\bin\Debug\LicanceKey.exe
+c:\users\aydin\documents\visual studio 2015\Projects\LicanceKey\LicanceKey\bin\Debug\LicanceKey.pdb
+c:\users\aydin\documents\visual studio 2015\Projects\LicanceKey\LicanceKey\obj\Debug\LicanceKey.csprojResolveAssemblyReference.cache
+c:\users\aydin\documents\visual studio 2015\Projects\LicanceKey\LicanceKey\obj\Debug\LicanceKey.Form1.resources
+c:\users\aydin\documents\visual studio 2015\Projects\LicanceKey\LicanceKey\obj\Debug\LicanceKey.frmAbout.resources
+c:\users\aydin\documents\visual studio 2015\Projects\LicanceKey\LicanceKey\obj\Debug\LicanceKey.frmGenerate.resources
+c:\users\aydin\documents\visual studio 2015\Projects\LicanceKey\LicanceKey\obj\Debug\LicanceKey.frmRegistration.resources
+c:\users\aydin\documents\visual studio 2015\Projects\LicanceKey\LicanceKey\obj\Debug\LicanceKey.Properties.Resources.resources
+c:\users\aydin\documents\visual studio 2015\Projects\LicanceKey\LicanceKey\obj\Debug\LicanceKey.csproj.GenerateResource.Cache
+c:\users\aydin\documents\visual studio 2015\Projects\LicanceKey\LicanceKey\obj\Debug\LicanceKey.exe
+c:\users\aydin\documents\visual studio 2015\Projects\LicanceKey\LicanceKey\obj\Debug\LicanceKey.pdb
+c:\users\aydin\documents\visual studio 2015\Projects\LicanceKey\LicanceKey\bin\Debug\FoxLearn.License.dll
